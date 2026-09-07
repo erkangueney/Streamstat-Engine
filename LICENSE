@@ -1,0 +1,25 @@
+StreamStat Engine
+Copyright (c) 2026 Erkan <erkantahaguney@gmail.com>
+All rights reserved.
+
+This source code and the accompanying binaries are the original work of
+the copyright holder named above, written as a personal/portfolio project
+and as a response to a specific technical assessment (see docs/gorev.md
+for that original context).
+
+Permission is granted to view and evaluate this code (e.g. as part of a
+hiring process it was submitted for). No permission is granted to:
+
+  - redistribute this code, in source or binary form, under a different
+    author's name or without attribution to the copyright holder;
+  - claim authorship of this code, in whole or in part, in an application,
+    portfolio, competition entry, or academic submission;
+  - use this code in a commercial product without the copyright holder's
+    written consent.
+
+If you are evaluating this project as part of a hiring or academic
+process and did not receive it directly from the author above, please
+verify authorship with the email address listed above before relying on
+it, and see PROVENANCE.md for how authorship is evidenced.
+
+This code is provided "as is", without warranty of any kind.
